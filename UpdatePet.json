@@ -1,0 +1,18 @@
+{
+  "id": 600,
+  "category": {
+    "id": 98765,
+    "name": "home"
+  },
+  "name": "dolly",
+  "photoUrls": [
+    "home"
+  ],
+  "tags": [
+    {
+      "id": 7654,
+      "name": "male"
+    }
+  ],
+  "status": "available"
+}

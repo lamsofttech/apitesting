@@ -1,0 +1,18 @@
+{
+  "id": 600,
+  "category": {
+    "id": 789654,
+    "name": "species"
+  },
+  "name": "cat",
+  "photoUrls": [
+    "home"
+  ],
+  "tags": [
+    {
+      "id": 90987,
+      "name": "female"
+    }
+  ],
+  "status": "available"
+}
