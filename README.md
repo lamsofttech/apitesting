@@ -1,2 +1,4 @@
-# apitesting
-This is a mini project of api testing using swagger.io documentaion.It includes all the four CRUD operations (POST,GET,UPDATE  AND DELETE)
+My testing of API in a real project will be structured and will follow a specific framework. Being part of a team will first begin by attending all daily stand-up meetings. I will then contribute to developing a test plan. This will spell out all the resources I will need
+To test the API. I shall then write test cases to test the API. This will include test cases for common API bugs and test cases to assert different API logics. I shall then provide the test cases for my test lead to approve.
+Having approved the test cases I will then test the API using the Postman testing tool.
+Once any bug is detected I will log it to a bug management tool like Bugzilla and assign it to a developer to fix it. Once the API bug is fixed I will retest the API to confirm the bug is fixed. I will then continue the API testing process until test case coverage is fully met.
